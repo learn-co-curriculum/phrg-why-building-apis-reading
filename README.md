@@ -125,4 +125,4 @@ external API, and examined some of the considerations with creating
 each. Next we'll be diving in and building some internal APIs from the
 ground up.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/why-building-apis-reading'>Why Build an API? </a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Why Build An API?</p>
